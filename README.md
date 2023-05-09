@@ -2,6 +2,7 @@
 ## Table of contents
 * [Introduction](#introduction)
 * [Technologies](#technologies)
+* [Illustrations](#illustrations)
 
 ## Introduction
     I've created a website for kindergarten with full management system for Admin user, teachers and parents.
@@ -16,3 +17,18 @@
 * Bootstrap
 * CSS
 * JavaScript
+* Xampp
+
+## Illustrations
+|  Homepage         |       Classes |
+| ------------------ | --------------- |
+|![Home](./start.png)| ![Classes](./classes.png)|
+
+| Gallery             |        Login   |
+| ------------------ | --------------- |
+| ![Gallery](./signup.png) | ![Login](./login.png) |
+
+| Contact Us         |         Create New User |
+| ------------------ | --------------- |
+|![Contact](./contact.png)| ![Create](./create.png)|
+
