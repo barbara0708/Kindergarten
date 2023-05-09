@@ -22,11 +22,11 @@
 ## Illustrations
 |  Homepage         |       Classes |
 | ------------------ | --------------- |
-|![Home](./start.png)| ![Classes](./classes.png)|
+|![Home](./homepage.png)| ![Classes](./classes.png)|
 
 | Gallery             |        Login   |
 | ------------------ | --------------- |
-| ![Gallery](./signup.png) | ![Login](./login.png) |
+| ![Gallery](./gallery.png) | ![Login](./login.png) |
 
 | Contact Us         |         Create New User |
 | ------------------ | --------------- |
